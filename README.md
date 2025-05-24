@@ -10,3 +10,5 @@
 - [x] NEW -- Potential Dataset #8: https://www.kaggle.com/chauhanmayank8/indian-business-cards-sample-images?
 - [x] NEW -- Potential Dataset #9: https://www.cs.cmu.edu/~aharley/rvl-cdip/
 - [x] NEW -- Potential Dataset #10: https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
+
+The code submitted here is not part of any proprietary or confidential work from my internship. It is intended solely as supporting material to demonstrate the skills and experience I gained during the internship. This work does not contain or disclose any internal tools, datasets, or intellectual property of the host organization, and is shared only to reflect my personal learning and contributions.
